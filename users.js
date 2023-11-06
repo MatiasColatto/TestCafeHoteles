@@ -1,4 +1,4 @@
-export const user = [
+export const users = [
     { email: 'miemail123@gmail.com', password: 'Mimaco10!' },
   ];
 
